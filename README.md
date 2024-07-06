@@ -23,5 +23,5 @@ NTU CSIE 3005 Programming Assignment
   - Report : 53/55
   - Baseline Competition : 26/35
   - Unseen Agent Competition : 2/10
-  - Single Elimination Tournament : 0/10
-  - Round-Robin Tournament : 0/10
+  - Single Elimination Tournament : -/10
+  - Round-Robin Tournament : -/10
